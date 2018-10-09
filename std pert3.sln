@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std pert3", "std pert3\std pert3.vcxproj", "{EF87DCEB-6F37-45F7-B37E-F07C99656C40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std pert3 hal19", "..\std pert3 hal19\std pert3 hal19.vcxproj", "{B4F52DC3-6001-4737-B341-799BA7D83EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF87DCEB-6F37-45F7-B37E-F07C99656C40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF87DCEB-6F37-45F7-B37E-F07C99656C40}.Debug|Win32.Build.0 = Debug|Win32
+		{EF87DCEB-6F37-45F7-B37E-F07C99656C40}.Release|Win32.ActiveCfg = Release|Win32
+		{EF87DCEB-6F37-45F7-B37E-F07C99656C40}.Release|Win32.Build.0 = Release|Win32
+		{B4F52DC3-6001-4737-B341-799BA7D83EE7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4F52DC3-6001-4737-B341-799BA7D83EE7}.Debug|Win32.Build.0 = Debug|Win32
+		{B4F52DC3-6001-4737-B341-799BA7D83EE7}.Release|Win32.ActiveCfg = Release|Win32
+		{B4F52DC3-6001-4737-B341-799BA7D83EE7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
